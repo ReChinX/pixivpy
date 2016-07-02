@@ -6,3 +6,5 @@ url.txt
 # pypi
 dist/
 MANIFEST
+
+.idea/
